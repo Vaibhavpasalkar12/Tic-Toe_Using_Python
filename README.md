@@ -24,4 +24,4 @@ Start by running the app.py file, which serves as the Python Flask application. 
 7. Now, immerse yourself in the game and enjoy the experience to the fullest!
 
 
-https://github.com/Vaibhavpasalkar12/Tic-tac-toe/blob/main/ss.png
+![GitHub Logo](https://github.com/Vaibhavpasalkar12/Tic-tac-toe/blob/main/ss.png)
