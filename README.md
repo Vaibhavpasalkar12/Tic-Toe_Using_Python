@@ -22,3 +22,6 @@ Start by running the app.py file, which serves as the Python Flask application. 
 5. Open your favorite web browser and enter the provided webpage address into the address bar.
 6. Instantly, you'll be directed to the game's user interface in the browser window.
 7. Now, immerse yourself in the game and enjoy the experience to the fullest!
+
+
+https://github.com/Vaibhavpasalkar12/Tic-tac-toe/blob/main/ss.png
