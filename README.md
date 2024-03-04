@@ -25,3 +25,5 @@ Start by running the app.py file, which serves as the Python Flask application. 
 
 
 ![GitHub Logo](https://github.com/Vaibhavpasalkar12/Tic-tac-toe/blob/main/ss.png)
+
+In keeping with the project's Python-centric nature, the user interface is intentionally kept basic to avoid any unnecessary complexity, allowing the focus to remain on understanding Python concepts effortlessly.
